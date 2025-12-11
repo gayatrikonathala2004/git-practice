@@ -1,3 +1,2 @@
-hello git this is new line from github!
-new line from local 
+hello git this is new line from github! 
 this is another new line 
